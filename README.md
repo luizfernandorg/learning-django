@@ -1,2 +1,2 @@
 # learning-django
-Repository for store my learning of Django
+Repository for store my django learning
